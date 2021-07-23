@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jackthehatguy
 - 👀 I’m interested in game development and web design.
-- 🌱 I’m currently learning cybersecurity fundamentals and some TypeScript
+- 🌱 I’m currently learning cybersecurity fundamentals and some TypeScript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
